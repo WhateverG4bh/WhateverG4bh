@@ -3,7 +3,7 @@
   <h2>
     <a href="https://git.io/typing-svg">
       <!-- Imagem gerada pelo serviço "Typing SVG" que mostra uma frase animada -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C +👋+eu+sou+o+Antonio+Gabriel%21" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C +👋+eu+sou+o+Gab+Web+Dev%21" alt="Typing SVG">
     </a>
   </h2>
 </div>
@@ -12,9 +12,9 @@
 
 Web Developer 
 -----------------
-- 🌱 Iniciante aprendendo desenvolvimento web
-- 🐼 Adoro buscar entender como as coisas funcionam
-- ⚡ Futuro dev
+- 👶 Iniciante aprendendo desenvolvimento web
+- 🎮 Adoro jogos!
+- ✨ Futuro Web Dev
 -->
 
 <!-- Seção de linguagens estudadas -->
@@ -38,10 +38,9 @@ Web Developer
 <!-- Redes sociais -->
 ## 🌐Socials:
 <div> 
-  <a href = "mailto:pedrogamase@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-gamam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5579988548709" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/eipedrogama/" target="_blank">
+  <a href = "mailto:iegaton786@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5579991980615" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/itznotingab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" /> </a>
 </div>
 
