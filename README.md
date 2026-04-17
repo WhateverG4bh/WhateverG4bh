@@ -14,7 +14,7 @@ Estudante de ADS
 -----------------
 - 👶 Iniciante aprendendo programação
 - 🎮 Adoro jogos!
-- ✨ Futuro Futuro programador
+- ✨ Futuro programador
 - 📚 Perfil com objetivo de aprendizado
 - 💻 Desenvolvendo meu conhecimento no mundo da programação 
 -->
