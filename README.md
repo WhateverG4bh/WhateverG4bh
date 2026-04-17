@@ -10,11 +10,13 @@
 <!-- Seção de Desenvolvedor Web centralizada com fonte aumentada -->
 <br>
 
-Web Developer 
+Perfil com objetivo de aprendizado.
 -----------------
-- 👶 Iniciante aprendendo desenvolvimento web
+- 👶 Iniciante aprendendo programação
 - 🎮 Adoro jogos!
-- ✨ Futuro Web Dev
+- ✨ Futuro Futuro programador
+- 📚 Perfil com objetivo de aprendizado
+- 💻 Desenvolvendo meu conhecimento no mundo da programação 
 -->
 
 <!-- Seção de linguagens estudadas -->
