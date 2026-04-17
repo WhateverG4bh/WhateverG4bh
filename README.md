@@ -10,7 +10,7 @@
 <!-- Seção de Desenvolvedor Web centralizada com fonte aumentada -->
 <br>
 
-Perfil com objetivo de aprendizado.
+Estudante de ADS
 -----------------
 - 👶 Iniciante aprendendo programação
 - 🎮 Adoro jogos!
